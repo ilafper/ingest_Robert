@@ -1,0 +1,8 @@
+git status
+
+it add .
+
+git commit -m "nombre del cambio"
+
+
+git push -u origin master
